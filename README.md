@@ -1,0 +1,3 @@
+## What is this repository?
+
+This repository is a fork of the [Public Suffix List](https://publicsuffix.org), created so that AWS's engineering teams can streamline AWS-specific updates to the PSL. Branches in this repository represent 'work in progress' that will be contributed to the PSL when ready. This repository is **not** intended for public usage and does not represent the current state of the PSL.
